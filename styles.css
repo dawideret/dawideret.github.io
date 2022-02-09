@@ -1,0 +1,15 @@
+body {font-family: "Arial", sans-serif}
+.mySlides {display: none}
+
+h1 {
+	font-size: 96px;
+	font-weight: bold;
+}
+
+h3 {
+	color: black;
+}
+
+b {
+	color: black;
+}
